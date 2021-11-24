@@ -1,0 +1,41 @@
+21-11-24 16:22.278 [main] INFO  com.mikola.shapes.parser.RectangleParser - Parsing is successful
+21-11-24 16:42.909 [main] INFO  com.mikola.shapes.factory.RectangleFactory - Creating Rectangle is successful
+21-11-24 16:42.912 [main] INFO  com.mikola.shapes.factory.RectangleFactory - Creating Rectangle is successful
+21-11-24 16:42.912 [main] INFO  com.mikola.shapes.factory.RectangleFactory - Creating Rectangle list is successful
+21-11-24 16:42.922 [main] INFO  com.mikola.shapes.factory.RectangleFactory - Creating Rectangle is successful
+21-11-24 16:42.932 [main] INFO  com.mikola.shapes.parser.RectangleParser - Parsing is successful
+21-11-24 16:42.949 [main] INFO  com.mikola.shapes.reader.RectangleReader - Read file data.txt is successful
+21-11-24 17:12.897 [main] INFO  com.mikola.shapes.factory.RectangleFactory - Creating Rectangle is successful
+21-11-24 17:12.902 [main] INFO  com.mikola.shapes.factory.RectangleFactory - Creating Rectangle is successful
+21-11-24 17:12.903 [main] INFO  com.mikola.shapes.factory.RectangleFactory - Creating Rectangle list is successful
+21-11-24 17:12.911 [main] INFO  com.mikola.shapes.factory.RectangleFactory - Creating Rectangle is successful
+21-11-24 17:12.925 [main] INFO  com.mikola.shapes.parser.RectangleParser - Parsing is successful
+21-11-24 17:12.945 [main] INFO  com.mikola.shapes.reader.RectangleReader - Read file data.txt is successful
+21-11-24 17:16.956 [main] INFO  com.mikola.shapes.factory.RectangleFactory - Creating Rectangle is successful
+21-11-24 17:16.959 [main] INFO  com.mikola.shapes.factory.RectangleFactory - Creating Rectangle is successful
+21-11-24 17:16.959 [main] INFO  com.mikola.shapes.factory.RectangleFactory - Creating Rectangle list is successful
+21-11-24 17:16.970 [main] INFO  com.mikola.shapes.factory.RectangleFactory - Creating Rectangle is successful
+21-11-24 17:16.981 [main] INFO  com.mikola.shapes.parser.RectangleParser - Parsing is successful
+21-11-24 17:16.992 [main] INFO  com.mikola.shapes.reader.RectangleReader - Read file data.txt is successful
+21-11-24 17:20.327 [main] INFO  com.mikola.shapes.factory.RectangleFactory - Creating Rectangle is successful
+21-11-24 17:20.330 [main] INFO  com.mikola.shapes.factory.RectangleFactory - Creating Rectangle is successful
+21-11-24 17:20.330 [main] INFO  com.mikola.shapes.factory.RectangleFactory - Creating Rectangle list is successful
+21-11-24 17:20.342 [main] INFO  com.mikola.shapes.factory.RectangleFactory - Creating Rectangle is successful
+21-11-24 17:20.353 [main] INFO  com.mikola.shapes.parser.RectangleParser - Parsing is successful
+21-11-24 17:20.364 [main] INFO  com.mikola.shapes.reader.RectangleReader - Read file data.txt is successful
+21-11-24 17:20.401 [main] DEBUG com.mikola.shapes.service.RectangleService - Sqare of rectangle #14 is {]
+21-11-24 17:21.687 [main] INFO  com.mikola.shapes.factory.RectangleFactory - Creating Rectangle is successful
+21-11-24 17:21.690 [main] INFO  com.mikola.shapes.factory.RectangleFactory - Creating Rectangle is successful
+21-11-24 17:21.690 [main] INFO  com.mikola.shapes.factory.RectangleFactory - Creating Rectangle list is successful
+21-11-24 17:21.701 [main] INFO  com.mikola.shapes.factory.RectangleFactory - Creating Rectangle is successful
+21-11-24 17:21.709 [main] INFO  com.mikola.shapes.parser.RectangleParser - Parsing is successful
+21-11-24 17:21.718 [main] INFO  com.mikola.shapes.reader.RectangleReader - Read file data.txt is successful
+21-11-24 17:21.755 [main] DEBUG com.mikola.shapes.service.RectangleService - Sqare of rectangle #14 is 9.0
+21-11-24 17:24.342 [main] INFO  com.mikola.shapes.factory.RectangleFactory - Creating Rectangle is successful
+21-11-24 17:24.345 [main] INFO  com.mikola.shapes.factory.RectangleFactory - Creating Rectangle is successful
+21-11-24 17:24.345 [main] INFO  com.mikola.shapes.factory.RectangleFactory - Creating Rectangle list is successful
+21-11-24 17:24.354 [main] INFO  com.mikola.shapes.factory.RectangleFactory - Creating Rectangle is successful
+21-11-24 17:24.361 [main] INFO  com.mikola.shapes.parser.RectangleParser - Parsing is successful
+21-11-24 17:24.369 [main] INFO  com.mikola.shapes.reader.RectangleReader - Read file data.txt is successful
+21-11-24 17:24.398 [main] DEBUG com.mikola.shapes.service.RectangleService - Perimetn of rectangle #13 is 12.0
+21-11-24 17:24.401 [main] DEBUG com.mikola.shapes.service.RectangleService - Sqare of rectangle #14 is 9.0

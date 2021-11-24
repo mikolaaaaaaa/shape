@@ -3,6 +3,9 @@ package com.mikola.shapes.creator;
 import com.mikola.shapes.entity.Point;
 import com.mikola.shapes.entity.Rectangle;
 import com.mikola.shapes.exception.RectangleException;
+import org.apache.logging.log4j.Level;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -10,6 +13,7 @@ import java.util.List;
 
 public class RectangleFactory {
     private static final int RIGHT_AMOUNT_OF_NUMERIC = 8;
+    private static final Logger logger = LogManager.getLogger(RectangleFactory.class);
 
     public static List<Rectangle> createRectangleList(List<double[]> doubleList) throws RectangleException {
         if (doubleList == null || doubleList.isEmpty()) {
@@ -20,6 +24,7 @@ public class RectangleFactory {
             Rectangle rectangle = createRectangle(coordinates);
             rectangles.add(rectangle);
         }
+        logger.log(Level.INFO, "Creating Rectangle list is successful");
         return rectangles;
     }
 
@@ -32,6 +37,7 @@ public class RectangleFactory {
             Point point = new Point(coordinates[i], coordinates[i + 1]);
             points.add(point);
         }
+        logger.log(Level.INFO, "Creating Rectangle is successful");
         return new Rectangle(points);
     }
 
